@@ -15,17 +15,7 @@ This repository contains three machine learning projects, including Automobile P
 
 &nbsp;&nbsp; 5 - **Testing:** Verified the model's accuracy by testing predictions based on automobile characteristics.
 
-## Datasets
-
-The datasets used in these projects are available in this repository, provided from the following sources:
-
-- **Automobile Price Data (Raw):** This dataset, used for regression, is provided from the sample datasets in Azure ML Designer.
-
-- **Diabetes Data:** The dataset used for classification was downloaded from link1.
-
-- **Penguin Data:** The dataset used for clustering was downloaded from link2.
-
-
+The datasets used in these projects are available in this repository. The Automobile Price Data (Raw), used for regression, is provided as a sample dataset in Azure Machine Learning Designer. The Diabetes Data, used for classification, was downloaded from [link](https://github.com/microsoft/MLOps/blob/master/examples/AzureML-Primers/data/diabetes.csv) , while the Penguin Data, used for clustering, was downloaded from [link](https://raw.githubusercontent.com/MicrosoftDocs/ml-basics/master/data/penguins.csv). 
 
 ## Files
 
