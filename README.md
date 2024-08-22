@@ -27,7 +27,7 @@ Each project is documented in its respective PDF file, including:
 
 The datasets used in these projects are available in this repository, provided from the following sources:
 
-- **Automobile Price Data (Raw):** This dataset, used for regression, is provided from the sample datasets in Azure Machine Learning Designer.
+- **Automobile Price Data (Raw):** This dataset, used for regression, is provided from the sample datasets in Azure ML Designer.
 
 - **Diabetes Data:** The dataset used for classification was downloaded from link1.
 
