@@ -19,17 +19,19 @@ The datasets used in these projects are available in this repository. The Automo
 
 ## Files
 
-- **Automobile Price Prediction with Azure ML Studio.pdf :** Detailed documentation of the automobile price prediction project.
+- **Automobile Price Prediction with Azure ML Studio.pdf :** Detailed documentation of the regression pipline.
 - **automobile-price-data-raw.csv:** Dataset used for the regression model.
-- **Diabetes Prediction Model with Azure ML Studio.pdf:** Detailed documentation of the diabetes prediction project.
+- **Diabetes Prediction Model with Azure ML Studio.pdf:** Detailed documentation of the classification pipline .
 - **diabetes-data.csv:** Dataset used for the classification model.
-- **Penguin Clustering Model with Azure ML Studio.pdf:** Detailed documentation of the penguin clustering project.
+- **Penguin Clustering Model with Azure ML Studio.pdf:** Detailed documentation of the clustering pipline.
 - **penguin-data.csv:** Dataset used for the clustering model.
 
 ## Requirements
 
 Azure Subscription
+
 Azure Machine Learning Workspace
+
 Azure Machine Learning Studio
 
   
