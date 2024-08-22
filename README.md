@@ -3,7 +3,7 @@ End-to-End Machine Learning Pipelines with Azure Machine Learning Studio
 
 ## Overview
 
-This repository contains three machine learning projects, each demonstrating the development of an end-to-end pipeline using Microsoft Azure Machine Learning Studio with no coding required, all built, deployed, and tested within Azure's user-friendly interface. The projects include: Automobile Price Prediction (Regression), Diabetes Prediction (Classification), and Penguin Clustering (Clustering). Each project is documented in its respective PDF file, including:
+This repository contains three machine learning projects, including Automobile Price Prediction (Regression), Diabetes Prediction (Classification), and Penguin Clustering (Clustering). They demonstrate the development of an end-to-end pipeline using Microsoft Azure Machine Learning Studio with no coding required, all built, deployed, and tested within Azure's user-friendly interface. Detailed documentation for each project is available in its respective PDF file, including:
 
 &nbsp;&nbsp; 1 - **Azure Workspace and Compute Setup:** Configured the Azure Machine Learning workspace and allocated compute resources.
 
