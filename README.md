@@ -11,7 +11,7 @@ This repository contains three machine learning projects, each demonstrating the
 
 &nbsp;&nbsp; 3- Penguin Clustering (Clustering)
 
-The datasets used in these projects are available in this repository. Each project is documented in its respective PDF file, including:
+Each project is documented in its respective PDF file, including:
 
 &nbsp;&nbsp; 1 - **Azure Workspace and Compute Setup:** Configured the Azure Machine Learning workspace and allocated compute resources.
 
@@ -22,6 +22,18 @@ The datasets used in these projects are available in this repository. Each proje
 &nbsp;&nbsp; 4 - **Deployment:** Deployed the predictive service to an Azure Container Instance.
 
 &nbsp;&nbsp; 5 - **Testing:** Verified the model's accuracy by testing predictions based on automobile characteristics.
+
+## Datasets
+
+The datasets used in these projects are available in this repository, provided from the following sources:
+
+- **Automobile Price Data (Raw):** This dataset, used for regression, is provided from the sample datasets in Azure Machine Learning Designer.
+
+- **Diabetes Data:** The dataset used for classification was downloaded from link1.
+
+- **Penguin Data:** The dataset used for clustering was downloaded from link2.
+
+
 
 ## Files
 
