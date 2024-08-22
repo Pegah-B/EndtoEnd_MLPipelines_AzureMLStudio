@@ -26,10 +26,10 @@ The datasets used in these projects are available in this repository. The Automo
 - **Penguin Clustering Model with Azure ML Studio.pdf:** Detailed documentation of the penguin clustering project.
 - **penguin-data.csv:** Dataset used for the clustering model.
 
-## Installation and Setup
+## Requirements
 
-- **Azure Subscription:** You need an active Azure subscription.
-- **Azure Machine Learning Workspace:** Set up an Azure Machine Learning workspace and compute resources.
-- **Azure Machine Learning Studio:** Access the Azure Machine Learning Studio to start building the pipelines.
+Azure Subscription
+Azure Machine Learning Workspace
+Azure Machine Learning Studio
 
   
